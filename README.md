@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.12%2B-blue?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-EE4C2C?logo=pytorch&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
-![Status](https://img.shields.io/badge/Status-In_Progress-yellow)
+![Status](https://img.shields.io/badge/Status-Active_Development-blue)
 
 ## Project Overview
 This repository contains a comprehensive study of Deep Learning techniques applied to Computer Vision tasks. The project evolves from training a **custom CNN** from scratch to implementing advanced **Transfer Learning** strategies and exploring **Generative AI** concepts using Autoencoders.
@@ -45,5 +45,6 @@ The project was designed to fulfill the following technical requirements:
    ```bash
    git clone [https://github.com/GoldenSalm0n/Deep-Learning-Image-Classification.git](https://github.com/GoldenSalm0n/Deep-Learning-Image-Classification.git)
    cd Deep-Learning-Image-Classification
+
 
 
