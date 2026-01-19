@@ -87,7 +87,7 @@ Below is the implementation status of the project requirements:
 - [ ] **Model Deployment:** Planning to wrap the model into a simple web application for demo usage.
 - [ ] **Real-world Testing:** Testing the model on custom photos taken from smartphone cameras to check robustness.
 - [ ] **Code Refactoring:** Optimizing the project structure and adding detailed docstrings.
-[In prossesing...]
+
 
 
 
